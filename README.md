@@ -1,5 +1,6 @@
 # Incruiter Assessment
-## Live URL - <a href="https://incruiter-assessment.netlify.app/">incruiter-assessment.netlify.app </a>
+## Live URL: <a href="https://incruiter-assessment.netlify.app/">incruiter-assessment.netlify.app </a>
+## Tasks
 - Task 1: Distribution Comparison
   - a. <a href="https://incruiter-assessment.netlify.app/barchart-chartjs"> Created with Chart.js</a>
   - b. <a href="https://incruiter-assessment.netlify.app/barchart"> Created with SVG</a>
