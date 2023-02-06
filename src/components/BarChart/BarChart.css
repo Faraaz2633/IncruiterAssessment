@@ -1,0 +1,25 @@
+.HeaderWrapper {
+  display: flex;
+  margin: 1rem auto;
+  width: 100%;
+  justify-content: center;
+}
+.SubContentWrapper {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.SubContent {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.SubContent input {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+polygon {
+  cursor: crosshair;
+}

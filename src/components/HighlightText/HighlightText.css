@@ -1,0 +1,30 @@
+p {
+  line-height: 2.5rem;
+}
+.container {
+  margin: 0 0.2rem;
+  max-width: fit-content;
+  padding: 0.5rem;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+.inner_text {
+  background: white;
+  padding: 0.2rem;
+  font-size: 12px;
+  border-radius: 5px;
+  margin-left: 0.3rem;
+  font-weight: 600;
+}
+.bgColor__ORG {
+  background-color: #43c6fc;
+}
+.bgColor__PERSON {
+  background-color: #a6e22d;
+}
+.bgColor__DATE {
+  background-color: #2fbbab;
+}
+.bgColor__NORP {
+  background-color: #ef60b4;
+}
